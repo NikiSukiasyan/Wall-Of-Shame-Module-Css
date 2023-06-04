@@ -1,0 +1,30 @@
+.container {
+  width: 1353px;
+  height: 43px;
+  background-color: rgba(243, 246, 249, 1);
+  display: flex;
+  border-radius: 6px;
+  margin-top: 24px;
+  margin-left: 24px;
+}
+.container p {
+  font-size: 12px;
+  font-family: "Poppins";
+  font-weight: 600;
+  color: rgba(70, 78, 95, 1);
+  margin-left: 30px;
+}
+.container .excuse {
+  font-size: 12px;
+  font-family: "Poppins";
+  font-weight: 600;
+  color: rgba(181, 181, 195, 1);
+  margin-left: 359px;
+}
+.container .count {
+  font-size: 12px;
+  font-family: "Poppins";
+  font-weight: 600;
+  color: rgba(181, 181, 195, 1);
+  margin-left: 700px;
+}
